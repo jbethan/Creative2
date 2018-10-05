@@ -1,0 +1,53 @@
+/*Stylesheet*/
+      #header {
+		background-color: #17448c;
+		color: #ffffff;
+		text-align: center;
+		font-size: 42px;
+		font-family: 'Patua One', cursive;
+		font-style: bolder;
+		height:60px;
+		padding: 10px 0px 10px 0px;
+	}
+      #map {
+        height: 100%;
+      }
+    
+      html, body {
+        height: 90%;
+        margin: 0;
+        padding: 0;
+      }
+      #drop {
+        position: fixed;
+        top: 10px;
+        left: 25%;
+        z-index: 5;
+        background-color: #a81010;
+        box-Shadow: 0 2px 6px rgba(0,0,0,.3);
+        padding: 8px 10px 8px 10px;
+        text-align: center;
+        font-size: 20px;
+        font-family: 'Monserrat', sans-serif;
+        font-style: bolder;
+        color: white;
+  	    border: none;
+  	    border-radius: 10px;
+  	    cursor: pointer;
+      }
+      #drop {
+        margin-top: 100px;
+        margin-left: 195px;
+      }
+      
+      
+      #footer {
+  		background-color: #17448c;
+  		font-size: 20px;
+  		font-family: 'Montserrat', sans-serif;
+  		color: #ffffff;
+  		height: 30px;
+  		padding: 10px;
+  		margin: 0px;
+  		text-align: center;
+  	}
